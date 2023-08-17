@@ -16,5 +16,3 @@ def make_pizza(size, *toppings):
 
 
 
-make_pizza(17, 'pepperoni')
-make_pizza(19, 'mushrooms','green pappers', 'extra cheese')
